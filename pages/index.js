@@ -3,8 +3,7 @@ function Home() {
         <>
   <meta charSet="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Lala, Eu te amo ❤️</title>
-  <link rel="icon" href="https://img.icons8.com/?size=512&id=3nLNjUNpgh4h&format=png" type="image/x-icon" />
+  <title>❤️ Lala, Eu te amo ❤️</title>
   <style
     dangerouslySetInnerHTML={{
       __html:
